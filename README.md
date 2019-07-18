@@ -1,3 +1,8 @@
+[논문 번역](https://github.com/nhk9680/CornerNet/blob/master/CornerNet_Korean.pdf)
+
+
+-----------------------
+
 # CornerNet: Training and Evaluation Code
 Update (4/18/2019): please check out [CornerNet-Lite](https://github.com/princeton-vl/CornerNet-Lite), more efficient variants of CornerNet
 
